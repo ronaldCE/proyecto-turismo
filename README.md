@@ -21,3 +21,4 @@
 - JORGE BENITEZ
 - María Isabel Conde Altamirano
 - Mario Darlin Escobar Parada
+- Ronald Cantuta
